@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Piyush Meshram 👋</h1>
+<h1 align="center">Hi, I'm Piyush Meshram </h1>
 
 <h3 align="center">
 Computational Biologist • Bioinformatics Researcher • AI Developer
