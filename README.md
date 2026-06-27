@@ -1,44 +1,72 @@
-<h1 align="center">Piyush Meshram</h1>
+<div align="center">
 
-<h3 align="center">
-Com Bioinformatics Researcher • AI Developer
-</h3>
+# Hi, I'm Piyush Meshram
 
-<p align="center">
-  <a href="https://github.com/PiyushMe4">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Bioinformatics+Analyst;Structural+Bioinformatician;Protein+Engineering;Genomics+%7C+Artificial+Intelligence;Data+Science;Building+AI+for+Life+Sciences" alt="Typing SVG" />
-  </a>
-</p>
+### Computational Biologist • Bioinformatician • Structural Biology • Data Science
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyushmeshram-b300b522a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:piyush45me@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p>
+Building reproducible computational pipelines for genomics, metagenomics, protein engineering and AI-driven biological data analysis.
 </p>
 
 ---
 
-# About
+<!-- ====================================================== -->
+<!--                 HERO GIF (Replace Later)                -->
+<!-- ====================================================== -->
 
-Master's graduate in Bioinformatics with research experience in computational biology, structural bioinformatics, protein engineering, genomics, and AI-driven biological data analysis.
+<img src="YOUR_PROTEIN_GIF_LINK_HERE" width="100%" alt="Protein Visualization"/>
 
-Currently working as a **Research Intern at GeNext Genomics Pvt. Ltd., Nagpur**, developing computational workflows for antibody engineering, protein-protein docking, and structural bioinformatics.
+<!-- Example -->
+<!-- https://raw.githubusercontent.com/username/repo/main/assets/hemoglobin.gif -->
 
 ---
 
-# Areas of Interest
+<p>
 
-- Computational Biology
-- Structural Bioinformatics
-- Protein Engineering
-- Computational Antibody Engineering
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Full Stack Development
+<a href="https://github.com/PiyushMe4">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge">
+</a>
+
+<a href="https://github.com/PiyushMe4?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/piyushmeshram-b300b522a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+</div>
+
+---
+
+# About Me
+
+- M.Sc. Bioinformatics
+- Research Intern — GeNext Genomics Pvt. Ltd., Nagpur
+- Computational Biology & Structural Bioinformatics
+- Protein Engineering & Antibody Design
+- Metagenomics & AMR Surveillance
+- Data Analytics & Machine Learning
+- Scientific Workflow Development
+
+---
+
+# Research Interests
+
+```text
+Structural Bioinformatics
+Protein Engineering
+Antibody Design
+Computational Biology
+Genomics
+Metagenomics
+Machine Learning for Biology
+NGS Analysis
+One Health
+Drug Discovery
+```
 
 ---
 
@@ -46,72 +74,50 @@ Currently working as a **Research Intern at GeNext Genomics Pvt. Ltd., Nagpur**,
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,cpp,js,html,css,bash"/>
-</p>
-
-### Frameworks & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb,docker,git,github,linux,vscode"/>
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash)
 
 ### Bioinformatics
 
-| Domain | Tools |
-|---------|------|
-| Structural Biology | PyMOL, ChimeraX, AlphaFold |
-| Protein Docking | PatchDock, HawkDock, ClusPro, PRODIGY |
-| Molecular Simulation | GROMACS |
-| NGS Analysis | FastQC, BWA, SAMtools, IGV |
-| Metagenomics | Kraken2, DIAMOND, CARD |
-| Workflow Management | Nextflow |
+FastQC • MultiQC • fastp • Bowtie2 • DIAMOND • CARD • PyMOL • PatchDock • HawkDock • PRODIGY • ClusPro • AlphaFold • ChimeraX
+
+### Data Science
+
+Pandas • NumPy • Matplotlib • Plotly • Scikit-Learn • Jupyter Notebook
+
+### Version Control
+
+Git • GitHub
 
 ---
 
-# Current Work
+# Featured Project
 
-- Computational Antibody Engineering
-- Affinity Maturation Pipelines
-- Protein-Protein Docking
-- Structural Bioinformatics
-- AI-powered Bioinformatics Applications
-- Full Stack Software Development
+## Computational Metagenomics Analysis of One Health-Oriented Antimicrobial Resistance Dynamics of Wastewater Across Five Major Cities
 
----
+Publication-quality Master's Dissertation repository featuring:
 
-# Featured Projects
+- Comparative wastewater metagenomics
+- DIAMOND-based ARG profiling
+- One Health framework
+- Publication-quality visualizations
+- Reproducible computational workflow
 
-| Project | Description |
-|---------|-------------|
-| Antibody Affinity Maturation | Structure-guided antibody optimization |
-| Master Dissertation | AMR metagenomics across Indian wastewater samples |
+Repository:
+
+**https://github.com/YOUR_USERNAME/YOUR_REPOSITORY**
 
 ---
 
-# GitHub Statistics
+# GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PiyushMe4&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushMe4&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushMe4&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
 
 </p>
 
@@ -121,32 +127,25 @@ Currently working as a **Research Intern at GeNext Genomics Pvt. Ltd., Nagpur**,
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushMe4&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
 
 </p>
 
 ---
 
-# Research Interests
+# Current Focus
 
 - Computational Structural Biology
-- Therapeutic Antibody Design
-- Protein Engineering
-- Drug Discovery
-- Precision Medicine
-- Multi-omics Data Integration
-- Artificial Intelligence for Healthcare
+- Antibody Engineering
+- Protein–Protein Docking
+- Metagenomics
+- Artificial Intelligence for Biology
+- Research Software Engineering
 
 ---
 
-# Currently Learning
+<div align="center">
 
-- Molecular Dynamics Simulations
-- AI Agents
-- MLOps
-- Cloud Computing
-- Scalable Bioinformatics Pipelines
+*"Transforming biological data into reproducible scientific insight."*
 
----
-
-```
+</div>
