@@ -2,7 +2,7 @@
 
 # Hi, I'm Piyush Meshram
 
-### Computational Biologist • Bioinformatician • Structural Biology • Data Science
+### Bioinformatician • Data Science
 
 <p>
 Building reproducible computational pipelines for genomics, metagenomics, protein engineering and AI-driven biological data analysis.
@@ -14,7 +14,7 @@ Building reproducible computational pipelines for genomics, metagenomics, protei
 <!--                 HERO GIF (Replace Later)                -->
 <!-- ====================================================== -->
 
-<img src="assets/PiMe.gif" width="80%" alt="Protein Visualization"/>
+<img src="assets/PiMe.gif" width="100%" alt="Protein Visualization"/>
 
 <!-- Example -->
 <!-- https://raw.githubusercontent.com/PiyushMe4/repository-name/main/assets/hemoglobin.gif -->
