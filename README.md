@@ -17,14 +17,14 @@ Building reproducible computational pipelines for genomics, metagenomics, protei
 <img src="YOUR_PROTEIN_GIF_LINK_HERE" width="100%" alt="Protein Visualization"/>
 
 <!-- Example -->
-<!-- https://raw.githubusercontent.com/username/repo/main/assets/hemoglobin.gif -->
+<!-- https://raw.githubusercontent.com/PiyushMe4/repository-name/main/assets/hemoglobin.gif -->
 
 ---
 
 <p>
 
 <a href="https://github.com/PiyushMe4">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/PiyushMe4?label=Followers&style=for-the-badge">
 </a>
 
 <a href="https://github.com/PiyushMe4?tab=repositories">
@@ -107,7 +107,7 @@ Publication-quality Master's Dissertation repository featuring:
 
 Repository:
 
-**https://github.com/YOUR_USERNAME/YOUR_REPOSITORY**
+**https://github.com/PiyushMe4/Indian-Urban-Resistome-Comparitive-Analysis**
 
 ---
 
@@ -115,9 +115,9 @@ Repository:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PiyushMe4&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushMe4&layout=compact&hide_border=true"/>
 
 </p>
 
@@ -127,7 +127,7 @@ Repository:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushMe4&hide_border=true"/>
 
 </p>
 
@@ -146,6 +146,7 @@ Repository:
 
 <div align="center">
 
-*"Transforming biological data into reproducible scientific insight."*
+*"Bridging the worlds of Biology and Technology more closer."*
 
 </div>
+````
