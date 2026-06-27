@@ -14,7 +14,7 @@ Building reproducible computational pipelines for genomics, metagenomics, protei
 <!--                 HERO GIF (Replace Later)                -->
 <!-- ====================================================== -->
 
-<img src="YOUR_PROTEIN_GIF_LINK_HERE" width="100%" alt="Protein Visualization"/>
+<img src="assets/PiMe.gif" width="80%" alt="Protein Visualization"/>
 
 <!-- Example -->
 <!-- https://raw.githubusercontent.com/PiyushMe4/repository-name/main/assets/hemoglobin.gif -->
