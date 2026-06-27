@@ -1,12 +1,12 @@
 <h1 align="center">Piyush Meshram</h1>
 
 <h3 align="center">
-Computational Biologist • Bioinformatics Researcher • AI Developer
+Com Bioinformatics Researcher • AI Developer
 </h3>
 
 <p align="center">
   <a href="https://github.com/PiyushMe4">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computational+Biologist;Structural+Bioinformatician;Protein+Engineering;Genomics+%7C+Artificial+Intelligence;Data+Science;Building+AI+for+Life+Sciences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Bioinformatics+Analyst;Structural+Bioinformatician;Protein+Engineering;Genomics+%7C+Artificial+Intelligence;Data+Science;Building+AI+for+Life+Sciences" alt="Typing SVG" />
   </a>
 </p>
 
@@ -90,10 +90,8 @@ Currently working as a **Research Intern at GeNext Genomics Pvt. Ltd., Nagpur**,
 
 | Project | Description |
 |---------|-------------|
-| PRO-0.1 | AI-assisted bioinformatics platform |
 | Antibody Affinity Maturation | Structure-guided antibody optimization |
-| Wastewater Resistome Analysis | AMR metagenomics across Indian wastewater samples |
-| Genomics Dashboard | Interactive genomic data visualization |
+| Master Dissertation | AMR metagenomics across Indian wastewater samples |
 
 ---
 
@@ -151,11 +149,4 @@ Currently working as a **Research Intern at GeNext Genomics Pvt. Ltd., Nagpur**,
 
 ---
 
-# Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PiyushMe4&label=Profile+Views&color=0E75B6&style=flat"/>
-
-</p>
 ```
